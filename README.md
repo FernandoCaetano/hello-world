@@ -1,2 +1,7 @@
 # hello-world
-README.
+
+Hi guys!
+
+I am glad to be part of this amazing team
+
+Happy Thanksgiving Day!
